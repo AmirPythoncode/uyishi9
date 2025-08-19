@@ -1,0 +1,59 @@
+body{
+  background-color: rgba(205, 93, 93, 1);
+  width: 1440px;
+
+}
+.a1{
+  width: 1024px;
+  font-size: 64px;
+  height: 29px;
+  text-align: center;
+  margin: 0 auto;
+  color: white;
+}
+.b1{
+  font-size: 40px;
+  padding: 15px 100px;
+
+}
+.b2{
+font-size: 15px;
+color: rgba(32, 0, 232, 1) ;
+padding: 55px;
+
+
+}
+.a2{
+  display: flex;
+  gap: 91px;
+
+}
+.c1{
+  color: yellow;
+}
+.CONTAINER{
+ display: flex;
+ flex-wrap: wrap;
+ gap: 100px;
+ padding-left: 166px;
+}
+.box{
+  width: 300px;
+  height: 300px;
+  background-color: black;
+  
+}
+.d1{
+  color: white;
+  text-align: center;
+  font-style: bold;
+  
+}
+
+.d2{
+ color: white;
+ font-size: 13px;
+ text-align: center;
+ font-style: normal;
+ 
+}
